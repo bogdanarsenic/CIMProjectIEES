@@ -1,0 +1,62 @@
+D:\Vezbe\11\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\Vezbe\11\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\Vezbe\11\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\Vezbe\11\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\Vezbe\11\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+D:\shared\simesVezbe\Projekat\ModelLabsProjekat\ModelLabs\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csprojResolveAssemblyReference.cache
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Nemanja\Desktop\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Desktop\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Drasko\Desktop\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Drasko\Desktop\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Drasko\Desktop\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csprojResolveAssemblyReference.cache
+C:\Users\Drasko\Desktop\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Drasko\Desktop\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Drasko\Desktop\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Drasko\Desktop\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Drasko\Desktop\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csprojResolveAssemblyReference.cache
+C:\Users\Drasko\Desktop\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Drasko\Desktop\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Desktop\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\Jebeni blok3\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\Jebeni blok3\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\Jebeni blok3\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Jebeni blok3\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\Jebeni blok3\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\bin\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csprojAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\NetworkModelGDAContract.csproj.CopyComplete
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\ServiceContracts\NetworkModelQueryContract\obj\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb

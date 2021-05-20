@@ -1,0 +1,138 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="8">
+        <ResourceDescription>
+          <id gid="0x00000001ffffffff" type="POWERTR" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="1" />
+            <Property id="IDOBJ_NAME" value="ptn" />
+            <Property id="IDOBJ_ALIASN" value="ptan" />
+            <Property id="EQUIPMENT_AGGR" value="1" />
+            <Property id="EQUIPMENT_NORMINSERV" value="1" />
+            <Property id="POWERTR_VECTGR" value="vg" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000002ffffffff" type="CONNECTNODE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="2" />
+            <Property id="IDOBJ_NAME" value="cnn" />
+            <Property id="IDOBJ_ALIASN" value="cnan" />
+            <Property id="CONNECTNODE_DESC" value="cndes" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003ffffffff" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="20" />
+            <Property id="IDOBJ_NAME" value="tn" />
+            <Property id="IDOBJ_ALIASN" value="tan" />
+            <Property id="TERMINAL_CONN" value="1" />
+            <Property id="TERMINAL_SEQNUM" value="5" />
+            <Property id="TERMINAL_PHASE" value="B" />
+            <Property id="TERMINAL_CONNECTNODE" value="0x00000002ffffffff" />
+            <Property id="TERMINAL_CONDEQ" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000003fffffffe" type="TERMINAL" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="3" />
+            <Property id="IDOBJ_NAME" value="tn" />
+            <Property id="IDOBJ_ALIASN" value="tan" />
+            <Property id="TERMINAL_CONN" value="1" />
+            <Property id="TERMINAL_SEQNUM" value="5" />
+            <Property id="TERMINAL_PHASE" value="A" />
+            <Property id="TERMINAL_CONNECTNODE" value="0x00000002ffffffff" />
+            <Property id="TERMINAL_CONDEQ" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="POWERTE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="34" />
+            <Property id="IDOBJ_NAME" value="novitransfer" />
+            <Property id="IDOBJ_ALIASN" value="novitranse" />
+            <Property id="TRANSFORMEREND_TERMINAL" value="0x00000003fffffffe" />
+            <Property id="POWERTE_B" value="10" />
+            <Property id="POWERTE_B0" value="11" />
+            <Property id="POWERTE_CONNKIND" value="Y" />
+            <Property id="POWERTE_G" value="12" />
+            <Property id="POWERTE_G0" value="13" />
+            <Property id="POWERTE_PHANCL" value="14" />
+            <Property id="POWERTE_R" value="15" />
+            <Property id="POWERTE_R0" value="16" />
+            <Property id="POWERTE_RATEDS" value="17" />
+            <Property id="POWERTE_RATEDU" value="18" />
+            <Property id="POWERTE_X" value="19" />
+            <Property id="POWERTE_X0" value="20" />
+            <Property id="POWERTE_POWERTR" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000004fffffffe" type="POWERTE" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="4" />
+            <Property id="IDOBJ_NAME" value="pten" />
+            <Property id="IDOBJ_ALIASN" value="ptean" />
+            <Property id="TRANSFORMEREND_TERMINAL" value="0x00000003fffffffe" />
+            <Property id="POWERTE_B" value="10" />
+            <Property id="POWERTE_B0" value="11" />
+            <Property id="POWERTE_CONNKIND" value="Y" />
+            <Property id="POWERTE_G" value="12" />
+            <Property id="POWERTE_G0" value="13" />
+            <Property id="POWERTE_PHANCL" value="14" />
+            <Property id="POWERTE_R" value="15" />
+            <Property id="POWERTE_R0" value="16" />
+            <Property id="POWERTE_RATEDS" value="17" />
+            <Property id="POWERTE_RATEDU" value="18" />
+            <Property id="POWERTE_X" value="19" />
+            <Property id="POWERTE_X0" value="20" />
+            <Property id="POWERTE_POWERTR" value="0x00000001ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005ffffffff" type="RATTAPCHANGER" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="25" />
+            <Property id="IDOBJ_NAME" value="novi5" />
+            <Property id="IDOBJ_ALIASN" value="novi3" />
+            <Property id="TAPCHANGER_HIGHST" value="21" />
+            <Property id="TAPCHANGER_INDELAY" value="22" />
+            <Property id="TAPCHANGER_LOWST" value="23" />
+            <Property id="TAPCHANGER_ITCFLAG" value="1" />
+            <Property id="TAPCHANGER_NEUTST" value="24" />
+            <Property id="TAPCHANGER_NEUTU" value="25" />
+            <Property id="TAPCHANGER_NORMST" value="26" />
+            <Property id="TAPCHANGER_REGST" value="1" />
+            <Property id="TAPCHANGER_SUBDELAY" value="27" />
+            <Property id="RATTAPCHANGER_STVOLTINC" value="40" />
+            <Property id="RATTAPCHANGER_CONTMODE" value="Reactive" />
+            <Property id="RATTAPCHANGER_TRANSEND" value="0x00000004ffffffff" />
+          </Properties>
+        </ResourceDescription>
+        <ResourceDescription>
+          <id gid="0x00000005fffffffe" type="RATTAPCHANGER" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="5" />
+            <Property id="IDOBJ_NAME" value="rtcn" />
+            <Property id="IDOBJ_ALIASN" value="rtcan" />
+            <Property id="TAPCHANGER_HIGHST" value="21" />
+            <Property id="TAPCHANGER_INDELAY" value="22" />
+            <Property id="TAPCHANGER_LOWST" value="23" />
+            <Property id="TAPCHANGER_ITCFLAG" value="1" />
+            <Property id="TAPCHANGER_NEUTST" value="24" />
+            <Property id="TAPCHANGER_NEUTU" value="25" />
+            <Property id="TAPCHANGER_NORMST" value="26" />
+            <Property id="TAPCHANGER_REGST" value="1" />
+            <Property id="TAPCHANGER_SUBDELAY" value="27" />
+            <Property id="RATTAPCHANGER_STVOLTINC" value="40" />
+            <Property id="RATTAPCHANGER_CONTMODE" value="Reactive" />
+            <Property id="RATTAPCHANGER_TRANSEND" value="0x00000004fffffffe" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

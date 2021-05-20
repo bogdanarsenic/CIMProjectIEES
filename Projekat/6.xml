@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cim="http://iec.ch/TC57/2010/CIM-schema-cim15#" xmlns:ftn="http://www.ftnydro.com/CIM15/2010/extension#">
+
+
+	<cim:PowerTransformer rdf:ID="1">
+		<cim:PowerTransformer.vectorGroup>vg</cim:PowerTransformer.vectorGroup>
+		<cim:Equipment.aggregate>true</cim:Equipment.aggregate>
+		<cim:Equipment.normallyInService>true</cim:Equipment.normallyInService>
+		<cim:IdentifiedObject.aliasName>ptan</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>1</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>ptn</cim:IdentifiedObject.name>
+	</cim:PowerTransformer>
+
+
+	<cim:ConnectivityNode rdf:ID="2">
+		<cim:ConnectivityNode.description>cndes</cim:ConnectivityNode.description>
+		<cim:IdentifiedObject.aliasName>cnan</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>2</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>cnn</cim:IdentifiedObject.name>
+	</cim:ConnectivityNode>
+
+
+	<cim:Terminal rdf:ID="3">
+		<cim:Terminal.ConductingEquipment rdf:resource="1"/>
+		<cim:Terminal.connected>true</cim:Terminal.connected>
+		<cim:Terminal.ConnectivityNode rdf:resource="2"/>
+		<cim:Terminal.phases>A</cim:Terminal.phases>
+		<cim:Terminal.sequenceNumber>5</cim:Terminal.sequenceNumber>
+		<cim:IdentifiedObject.aliasName>tan</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>3</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>tn</cim:IdentifiedObject.name>
+	</cim:Terminal>
+
+	<cim:PowerTransformerEnd rdf:ID="4">
+		<cim:PowerTransformerEnd.b>10</cim:PowerTransformerEnd.b>
+		<cim:PowerTransformerEnd.b0>11</cim:PowerTransformerEnd.b0>
+		<cim:PowerTransformerEnd.connectionKind>A</cim:PowerTransformerEnd.connectionKind>
+		<cim:PowerTransformerEnd.g>12</cim:PowerTransformerEnd.g>
+		<cim:PowerTransformerEnd.g0>13</cim:PowerTransformerEnd.g0>
+		<cim:PowerTransformerEnd.phaseAngleClock>14</cim:PowerTransformerEnd.phaseAngleClock>
+		<cim:PowerTransformerEnd.PowerTransformer rdf:resource="1"/>
+		<cim:PowerTransformerEnd.r>15</cim:PowerTransformerEnd.r>
+		<cim:PowerTransformerEnd.r0>16</cim:PowerTransformerEnd.r0>
+		<cim:PowerTransformerEnd.ratedS>17</cim:PowerTransformerEnd.ratedS>
+		<cim:PowerTransformerEnd.ratedU>18</cim:PowerTransformerEnd.ratedU>
+		<cim:PowerTransformerEnd.x>19</cim:PowerTransformerEnd.x>
+		<cim:PowerTransformerEnd.x0>20</cim:PowerTransformerEnd.x0>
+		<cim:TransformerEnd.Terminal rdf:resource="3"/>
+		<cim:IdentifiedObject.aliasName>ptean</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>4</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>pten</cim:IdentifiedObject.name>
+	</cim:PowerTransformerEnd>
+
+	<cim:RatioTapChanger rdf:ID="5">
+		<cim:RatioTapChanger.stepVoltageIncrement>40</cim:RatioTapChanger.stepVoltageIncrement>
+		<cim:RatioTapChanger.tculControlMode>reactive</cim:RatioTapChanger.tculControlMode>
+		<cim:RatioTapChanger.TransformerEnd rdf:resource="4"/>
+		<cim:TapChanger.highStep>21</cim:TapChanger.highStep>
+		<cim:TapChanger.initialDelay>22</cim:TapChanger.initialDelay>
+		<cim:TapChanger.lowStep>23</cim:TapChanger.lowStep>
+		<cim:TapChanger.ltcFlag>true</cim:TapChanger.ltcFlag>
+		<cim:TapChanger.neutralStep>24</cim:TapChanger.neutralStep>
+		<cim:TapChanger.neutralU>25</cim:TapChanger.neutralU>
+		<cim:TapChanger.normalStep>26</cim:TapChanger.normalStep>
+		<cim:TapChanger.regulationStatus>true</cim:TapChanger.regulationStatus>
+		<cim:TapChanger.subsequentDelay>27</cim:TapChanger.subsequentDelay>
+		<cim:IdentifiedObject.aliasName>rtcan</cim:IdentifiedObject.aliasName>
+		<cim:IdentifiedObject.mRID>5</cim:IdentifiedObject.mRID>
+		<cim:IdentifiedObject.name>rtcn</cim:IdentifiedObject.name>
+	</cim:RatioTapChanger>
+
+
+</rdf:RDF>

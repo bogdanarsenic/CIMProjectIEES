@@ -1,0 +1,163 @@
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\bin\Debug\Client.exe
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\bin\Debug\Client.pdb
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\obj\Debug\App.g.cs
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\obj\Debug\MainWindow.baml
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\obj\Debug\Client.g.resources
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\obj\Debug\Client.exe
+C:\Users\Drasko\Desktop\ModelLabsProjekat\Client\obj\Debug\Client.pdb
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\bin\Debug\Client.exe
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\bin\Debug\Client.pdb
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\obj\Debug\App.g.cs
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\obj\Debug\MainWindow.baml
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\obj\Debug\Client.g.resources
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\obj\Debug\Client.exe
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\obj\Debug\Client.pdb
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\bin\Debug\FTN.Common.dll
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\bin\Debug\FTN.Common.pdb
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Drasko\Desktop\IES projekat\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+D:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\bin\Debug\Client.exe.config
+D:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\obj\Debug\Client.exe
+D:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\obj\Debug\Client.pdb
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\bin\Debug\Client.exe.config
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\bin\Debug\Client.exe
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\bin\Debug\Client.pdb
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\bin\Debug\FTN.Common.dll
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\bin\Debug\FTN.Common.pdb
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\obj\Debug\MainWindow.g.cs
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\obj\Debug\App.g.cs
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\obj\Debug\MainWindow.baml
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\obj\Debug\Client.g.resources
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\obj\Debug\Client.exe
+E:\IES projekat-najnovija verzija\ModelLabsProjekat\Client\obj\Debug\Client.pdb
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\Client.exe
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\Client.pdb
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\FTN.Common.dll
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\FTN.Common.pdb
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\App.g.cs
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\MainWindow.baml
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client.g.resources
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client.exe
+C:\Users\Drasko\Desktop\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client.pdb
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\Client.exe.config
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client.exe
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client.pdb
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\Client.exe
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\Client.pdb
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\FTN.Common.dll
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\FTN.Common.pdb
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\MainWindow.g.cs
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\App.g.cs
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\MainWindow.baml
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client.g.resources
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+G:\IES ZAVRSEN PROJEKAT!!!!!!!\IES projekat-verzija cetvrtak\ModelLabsProjekat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\App.g.cs
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.exe
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.pdb
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\Client.exe
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\Client.pdb
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.Common.dll
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.Common.pdb
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\MainWindow.baml
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.g.resources
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\Proba starog\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.exe
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.pdb
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\Client.exe
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\Client.pdb
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.Common.dll
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.Common.pdb
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\App.g.cs
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\MainWindow.baml
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.g.resources
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\Blok 3 pokusaj\STARI!!!\Bogdan Projekat IEES\projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.exe
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.pdb
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\Client.exe
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\Client.pdb
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.Common.dll
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.Common.pdb
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\App.g.cs
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\MainWindow.baml
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.g.resources
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\Client.exe.config
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\Client.exe
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\Client.pdb
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.Common.dll
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.Common.pdb
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\MainWindow.g.cs
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\App.g.cs
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\MainWindow.baml
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.g.resources
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.exe
+C:\Users\Bogdan\Desktop\Projekat Blok 3 IEES\Bogdan projekat IEES\Projekat\ModelLabsProjekat\Client\obj\Debug\Client.pdb
